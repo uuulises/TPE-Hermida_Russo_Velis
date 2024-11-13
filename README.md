@@ -8,7 +8,8 @@ A continuación, se indican las herramientas necesarias para ejecutar este proye
 - Git: [Descarga e instalación](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 - Jupyter Lab: [Guía de instalación](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html)
 - Visual Studio Code: [Descarga e instalación](https://code.visualstudio.com/docs/)
-> **Nota: Se recomienda instalar todas las herramientas anteriores antes de proceder con los siguientes pasos.**
+
+> **NOTA: Se recomienda instalar todas las herramientas anteriores antes de proceder con los siguientes pasos.**
 
 ## Guía de instalación
 ### 1. Descarga de los archivos necesarios
@@ -60,7 +61,7 @@ Esto abrirá una nueva pestaña en tu navegador con el entorno de Jupyter Lab.
 
 2. En el navegador, navega a la carpeta del proyecto y selecciona el archivo TPE.ipynb para abrirlo.
 3. Para ejecutar todas las celdas de la notebook, usa la opción Run All o ejecuta cada celda individualmente para revisar el análisis paso a paso.
-> **Nota: Asegurate de tener el ambiente virtual activado antes de ejecutar el comando, para que Jupyter Lab reconozca el kernel adecuado.**
+> **NOTA: Asegurate de tener el ambiente virtual activado antes de ejecutar el comando, para que Jupyter Lab reconozca el kernel adecuado.**
 
 ### Método 2: Usar Visual Studio Code
 1. Abre Visual Studio Code y navega hasta la carpeta del proyecto.
@@ -69,5 +70,6 @@ Esto abrirá una nueva pestaña en tu navegador con el entorno de Jupyter Lab.
 4. En la parte superior de la notebook, selecciona `Run All Cells` para ejecutar el análisis completo.
 
 ## Consideraciones importantes
-- Ambiente: Recuerda que siempre es importante activar el ambiente virtual antes de trabajar con la notebook para evitar problemas de compatibilidad.
-- Actualización de librerías: En caso de problemas de versiones o dependencias, considera actualizar el archivo requirements.txt o reinstalar librerías específicas.
+> [!IMPORTANT]
+> - Ambiente: Recuerda que siempre es importante activar el ambiente virtual antes de trabajar con la notebook para evitar problemas de compatibilidad.
+> - Actualización de librerías: En caso de problemas de versiones o dependencias, considera actualizar el archivo requirements.txt o reinstalar librerías específicas.
