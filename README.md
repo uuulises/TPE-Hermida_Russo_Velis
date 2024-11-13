@@ -37,7 +37,14 @@ Para evitar conflictos de versiones de librerías y mantener el entorno de traba
   ```bash
        source env/bin/activate
   ```
+  
 - En Windows:
   ```bash
        .\env\Scripts\activate
+  ```
+
+### 3. Instalación de dependencias
+Con el entorno virtual activado, instala todas las dependencias necesarias para ejecutar el proyecto. Estas dependencias están enumeradas en el archivo `requirements.txt`. Desde la terminal, ejecuta:
+  ```bash
+       pip install -r requirements.txt
   ```
