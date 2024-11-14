@@ -67,7 +67,7 @@ Esto abrirá una nueva pestaña en tu navegador con el entorno de Jupyter Lab.
 1. Abre Visual Studio Code y navega hasta la carpeta del proyecto.
 2. Asegurate de instalar las extensiones Python y Jupyter. Esto puedes hacerlo desde el icono de extensiones en la barra lateral izquierda.
 3. Una vez instaladas las extensiones, abre el archivo TPE.ipynb.
-4. En la parte superior de la notebook, selecciona `Run All Cells` para ejecutar el análisis completo.
+4. En la parte superior de la notebook, selecciona `Run All` para ejecutar el análisis completo.
 
 ## Consideraciones importantes
 > [!IMPORTANT]
